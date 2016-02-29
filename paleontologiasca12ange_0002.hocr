@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./paleontologiasca12ange_0002.png"; bbox 0 0 2037 2752; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 665 1019 1352 1065">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 665 1019 1352 1065">
+     <span class='ocr_line' id='line_1_1' title="bbox 665 1019 1352 1065; baseline -0.01 0"><span class='ocrx_word' id='word_1_1' title='bbox 665 1024 958 1065; x_wconf 91' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_2' title='bbox 991 1019 1352 1061; x_wconf 91' lang='lat' dir='ltr'>UNIVERSITY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 891 1605 1150 1645">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 891 1605 1150 1645">
+     <span class='ocr_line' id='line_1_2' title="bbox 891 1605 1150 1645; baseline -0.008 0"><span class='ocrx_word' id='word_1_3' title='bbox 891 1605 1150 1645; x_wconf 93' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 959 1712 1079 1734">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 959 1712 1079 1734">
+     <span class='ocr_line' id='line_1_3' title="bbox 959 1712 1079 1734; baseline -0.008 0"><span class='ocrx_word' id='word_1_4' title='bbox 959 1713 999 1734; x_wconf 84' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_5' title='bbox 1013 1712 1079 1734; x_wconf 73' lang='lat' dir='ltr'>THE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 686 1775 1354 1818">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 686 1775 1354 1818">
+     <span class='ocr_line' id='line_1_4' title="bbox 686 1775 1354 1818; baseline -0.01 -6"><span class='ocrx_word' id='word_1_6' title='bbox 686 1782 858 1812; x_wconf 87' lang='lat' dir='ltr'>Museum</span> <span class='ocrx_word' id='word_1_7' title='bbox 874 1780 913 1811; x_wconf 82' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_8' title='bbox 929 1777 1181 1818; x_wconf 77' lang='lat' dir='ltr'><strong>comparative</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1196 1775 1354 1814; x_wconf 87' lang='lat' dir='ltr'>Zoology</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 536 836 1490 2222">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 536 836 1490 2222">
+     <span class='ocr_line' id='line_1_5' title="bbox 536 836 1490 2222; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 536 836 1490 2222; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
